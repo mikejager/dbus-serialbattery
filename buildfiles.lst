@@ -18,4 +18,5 @@ etc/dbus-serialbattery/ant.py
 etc/dbus-serialbattery/util_max17853.py
 etc/dbus-serialbattery/mnb.py
 etc/dbus-serialbattery/jkbms.py
+etc/dbus-serialbattery/sbms0.py
 etc/dbus-serialbattery/sinowealth.py
